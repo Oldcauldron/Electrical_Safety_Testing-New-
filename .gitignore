@@ -1,0 +1,6 @@
+
+*.pyc
+cmd.exe.lnk
+to_exe/
+archieve/
+__pycache__/
